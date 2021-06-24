@@ -1,0 +1,3 @@
+questão 8:
+o primeiro lista valores do vetor
+o segundo lista os endereços dos valores do vetor
